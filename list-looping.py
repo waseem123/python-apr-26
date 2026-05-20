@@ -6,3 +6,6 @@ for i in mylist:
     
 for i in range(len(mylist)):
     print(f'{i} -> {mylist[i]}')
+    
+    
+ 
