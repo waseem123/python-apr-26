@@ -1,0 +1,5 @@
+mytuple = ('India','China','America','Japan','Germeny','Russia')
+print(mytuple)
+print(mytuple.count('China'))
+print(mytuple.index('Japan'))
+print(mytuple.index('UAE'))

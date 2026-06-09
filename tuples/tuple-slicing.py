@@ -1,0 +1,10 @@
+mytuple = ('India','China','America','Japan','Germeny','Russia')
+print(mytuple)
+
+print(mytuple[0:5])
+print(mytuple[3:6])
+print(mytuple[2:6:3])
+print('----------------------')
+print(mytuple[-2:-5])
+print(mytuple[3:-1])
+print(mytuple[-6:-2:2])
