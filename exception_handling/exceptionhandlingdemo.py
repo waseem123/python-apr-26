@@ -6,3 +6,5 @@ try:
     print(f'DIVISION IS - {result}')
 except:
     print('ERROR - You can not divide any number by zero.')
+
+print('THE PROGRAM IS ENDING HERE.')
