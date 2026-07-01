@@ -12,7 +12,8 @@ def check_age(age):
 
 
 try:
-    valid_age = check_age(6)
+    userage = int(input('ENTER YOUR AGE - '))
+    valid_age = check_age(userage)
     print(valid_age)
 except AgeError:
     print('ERROR - INVALID AGE')
