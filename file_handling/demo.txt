@@ -1,3 +1,7 @@
-Welcome to Python's File Reading tutorial.
-salary creates a temporary copy of the data instead of modifying the original DataFrame. Pandas will usually throw a SettingWithCopyWarning,
-and your changes won't actually save to df.
+I'm trying to feed a prompt to a GPT-2 model, 
+which is trained on song lyrics. 
+With this model, you can feed it a prompt and it will attempt to finish it. 
+The problem I'm having is that I need for the prompt to be formatted 
+correctly like song lyrics - with each lyric on a newline. 
+Since this model has been trained on formatted lyrics, 
+the prompt needs to look the same to produce above average results.

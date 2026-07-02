@@ -1,0 +1,3 @@
+Welcome to append operation.This is a new data written to the existing file.\nWritting in new line
+new line added
+simple text
